@@ -33,8 +33,7 @@ for day in range(0, 364):
 
 
 #### Features
+
 🔁 Effortlessly convert a text file of your notes to workable flashcards (IP)
-
 📔 Store information about the level of mastery for each items (upcoming)
-
 🧠 Retain concepts through an active recall system (upcoming)
