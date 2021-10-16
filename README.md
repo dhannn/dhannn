@@ -19,23 +19,3 @@ for day in range(0, 364):
     self._skills *= 1.01
     self._bad_habits *= 0.99
 ```
-
-<br> 
-
-# 🛠 some projects atm
-### ReCall Flashcards
-
-<a href="https://github.com/dhannn/ReCall">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dhannn&repo=ReCall" />
-</a>
-
-<img align="left" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" height="200px" />
-
-
-#### Features
-
-🔁 Effortlessly convert a text file of your notes to workable flashcards (IP)
-<br>
-📔 Store information about the level of mastery for each items (upcoming)
-<br>
-🧠 Retain concepts through an active recall system (upcoming)
