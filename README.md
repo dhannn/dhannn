@@ -19,3 +19,39 @@ for day in range(0, 364):
     self._skills *= 1.01
     self._bad_habits *= 0.99
 ```
+
+# ⚙️ danntraptions 
+
+
+<a href="https://github.com/dhannn/pickt-app">
+    <img align='left' src="https://github-readme-stats.vercel.app/api/pin/?username=dhannn&repo=pickt-app" />
+</a>
+
+## Pickt App
+
+An client and server application that allows users to post forum threads relating to photography.
+
+<br/>
+
+### Summary
+👨‍💻 Independently designed and developed a client-side and a server-side application
+ 
+🖼️ Applied modern best practices for writing React code
+ 
+🔁 Applied modern best practices for designing RESTful APIs
+ 
+📅 Designing and managing a database using MongoDB and object-relational mapping libraries like Mongoose.
+ 
+📈 Discerned tradeoffs and benefits of programming languages and technologies to speed up development time
+
+### Technologies 
+#### General
+- TypeScript for ease of development
+- Node.js for running the application
+- ChatGPT for queries on web development
+
+#### Front-End
+- React and React Router for the main app framework with routing
+- FontAwesome for icons
+- Google Fonts for fonts
+- Unsplash API and unsplash-js for generating random background images
