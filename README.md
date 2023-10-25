@@ -34,15 +34,11 @@ An client and server application that allows users to post forum threads relatin
 <br/>
 
 ### Summary
-👨‍💻 Independently designed and developed a client-side and a server-side application
- 
-🖼️ Applied modern best practices for writing React code
- 
-🔁 Applied modern best practices for designing RESTful APIs
- 
-📅 Designing and managing a database using MongoDB and object-relational mapping libraries like Mongoose.
- 
-📈 Discerned tradeoffs and benefits of programming languages and technologies to speed up development time
+- 👨‍💻 Independently designed and developed a client-side and a server-side application
+- 🖼️ Applied modern best practices for writing React code
+- 🔁 Applied modern best practices for designing RESTful APIs
+- 📅 Designing and managing a database using MongoDB and object-relational mapping libraries like Mongoose.
+- 📈 Discerned tradeoffs and benefits of programming languages and technologies to speed up development time
 
 ### Technologies 
 #### General
