@@ -51,3 +51,7 @@ An client and server application that allows users to post forum threads relatin
 - FontAwesome for icons
 - Google Fonts for fonts
 - Unsplash API and unsplash-js for generating random background images
+
+#### Back-End
+- MongoDB and Mongoosee for database management and object relational mapping
+- Express.js for creating HTTP routes
