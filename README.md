@@ -7,7 +7,6 @@
 # 🥴 about me
 
 - 💻 Studying **Computer Science** in De La Salle University
-- 🎥 Planning to minor in **Communication and New Media**
 - 📚 **In love with information** from research to sharing insights
 - ☕ **Coffee** is my water
 - 📈 On my road to [✨ **eudaimonia** ✨](https://www.britannica.com/topic/eudaimonia)
