@@ -6,7 +6,7 @@
 
 # 🥴 about me
 
-- 💻 Taking Bachelor's and Master's **Computer Science** in De La Salle University
+- 💻 Studying **Computer Science** in De La Salle University
 - 📚 **In love with information** from research to sharing insights
 - 🙌 **In love with creating** from poetry to software
 - ☕ **Coffee** is my water
