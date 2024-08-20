@@ -23,9 +23,21 @@ for day in range(0, 364):
 # ⚙️ danntraptions 
 
 
+<a href="https://github.com/dhannn/coursify">
+    <img align='left' src="https://github-readme-stats.vercel.app/api/pin/?username=dhannn&repo=coursify" />
+</a>
+
+## Coursify App
+
+A simple single-page application that can generate a custom self-directed learning plan 
+
+<br/>
+
+
 <a href="https://github.com/dhannn/pickt-app">
     <img align='left' src="https://github-readme-stats.vercel.app/api/pin/?username=dhannn&repo=pickt-app" />
 </a>
+
 
 ## Pickt App
 
