@@ -32,6 +32,9 @@ for day in range(0, 364):
 A simple single-page application that can generate a custom self-directed learning plan 
 
 <br/>
+<br/>
+<br/>
+<br/>
 
 
 <a href="https://github.com/dhannn/pickt-app">
