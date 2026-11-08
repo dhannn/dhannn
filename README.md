@@ -6,7 +6,8 @@
 
 # 🥴 about me
 
-- 💻 Studying **Computer Science** in De La Salle University
+- 💻 Doing a **BS + MS in Computer Science** at De La Salle University, with my thesis in HCI (Human-X Interactions Lab)
+- 🤖 **Building with Claude** most days: Claude Code for my thesis app, and my own skills and workflows for everything else
 - 📚 **In love with information** from research to sharing insights
 - 🙌 **In love with creating** from poetry to software
 - ☕ **Coffee** is my water
@@ -22,51 +23,16 @@ for day in range(0, 364):
 
 # ⚙️ danntraptions 
 
+### Now
+- 🔍 **Looking Glass** *(thesis, private for now)*: a PWA that shows people what their social media feed is showing them, using a multimodal LLM to turn screen recordings into structured posts. Built with Claude Code, 48 features in two months.
+- 🗂️ [**scrollnotes**](https://github.com/dhannn/scrollnotes): a local-first research tool for annotating and curating social media posts into a reproducible dataset.
+- 🔁 [**SD²R**](https://github.com/dhannn/sd2r-workflow-template): my way of learning with AI without just copying it. AI builds a throwaway prototype, I study it, then rebuild from my notes.
 
-<a href="https://github.com/dhannn/coursify">
-    <img align='left' src="https://github-readme-stats.vercel.app/api/pin/?username=dhannn&repo=coursify" />
-</a>
+### AI and data
+- 🧪 [**Synthetic training data with Claude**](https://github.com/dhannn/llm-synthetic-data-generation): can LLM-generated Taglish tweets help a hate-speech classifier? (Not here, and why.)
+- 🕸️ [**Distributed scraper on Redis**](https://github.com/dhannn/distributed-scraper): explorer and extractor workers across machines, about 20x throughput. Paper included.
+- 🧬 [**mimic-lang**](https://github.com/dhannn/mimic-lang): a type-safe DSL for agent-based modelling, in Rust.
 
-## Coursify App
-
-A simple single-page application that can generate a custom self-directed learning plan 
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-<a href="https://github.com/dhannn/pickt-app">
-    <img align='left' src="https://github-readme-stats.vercel.app/api/pin/?username=dhannn&repo=pickt-app" />
-</a>
-
-
-## Pickt App
-
-An client and server application that allows users to post forum threads relating to photography.
-
-<br/>
-
-### Summary
-- 👨‍💻 Independently designed and developed a client-side and a server-side application
-- 🖼️ Applied modern best practices for writing React code
-- 🔁 Applied modern best practices for designing RESTful APIs
-- 📅 Designing and managing a database using MongoDB and object-relational mapping libraries like Mongoose.
-- 📈 Discerned tradeoffs and benefits of programming languages and technologies to speed up development time
-
-### Technologies 
-#### General
-- TypeScript for ease of development
-- Node.js for running the application
-- ChatGPT for queries on web development
-
-#### Front-End
-- React and React Router for the main app framework with routing
-- FontAwesome for icons
-- Google Fonts for fonts
-- Unsplash API and unsplash-js for generating random background images
-
-#### Back-End
-- MongoDB and Mongoosee for database management and object relational mapping
-- Express.js for creating HTTP routes
+### Earlier
+- 📘 [**Coursify**](https://github.com/dhannn/coursify): generates a self-directed learning plan from your goals and time.
+- 📷 [**Pickt**](https://github.com/dhannn/pickt-app): a forum for photographers, client and server built solo (React, Express, MongoDB).
