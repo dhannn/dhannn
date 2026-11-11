@@ -7,7 +7,7 @@
 # 🥴 about me
 
 - 💻 Pursuing **BS + MS in Computer Science** at De La Salle University, with my thesis in HCI (Human-X Interactions Lab)
-- 🤖 **Building with Claude** most days: Claude Code for my thesis app, and my own skills and workflows for everything else
+- 🤖 **Building with AI** most days: Claude Code for my thesis app, and my own skills and workflows for everything else
 - 📚 **In love with information** from research to sharing insights
 - 🙌 **In love with creating** from poetry to software
 - ☕ **Coffee** is my water
